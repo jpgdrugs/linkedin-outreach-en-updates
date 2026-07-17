@@ -1,7 +1,7 @@
 {
-    "version": "1.0.7",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.7/LinkedInOutreachSetup-1.0.7.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.7/LinkedInOutreach-1.0.7-mac-update.zip",
-    "notes": "New Analytics tab: reply rates by target group, source and message pattern, plus what to change to get more replies. Also fixes Mac in-app updates.",
+    "version": "1.0.8",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.8/LinkedInOutreachSetup-1.0.8.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.8/LinkedInOutreach-1.0.8-mac-update.zip",
+    "notes": "Optional: auto-like the contact's last post, and let the app learn from your reply rates to improve new messages. New Support section in Settings to view and download logs.",
     "required": false
 }
