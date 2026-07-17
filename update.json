@@ -1,7 +1,7 @@
 {
-    "version": "1.0.9",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.9/LinkedInOutreachSetup-1.0.9.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.9/LinkedInOutreach-1.0.9-mac-update.zip",
-    "notes": "Clearer Conversations sync: step 1 loads the overview and pictures, step 2 loads the full conversations. Also fixes a label on the dashboard and the message shown in the Mac update dialog.",
+    "version": "1.0.10",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.10/LinkedInOutreachSetup-1.0.10.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.10/LinkedInOutreach-1.0.10-mac-update.zip",
+    "notes": "Clearer Conversations sync: the second step now says which chats it loads (people you messaged, or all conversations) and gives a helpful hint instead of a wrong up-to-date message. Update banner now appears right after a release.",
     "required": false
 }
