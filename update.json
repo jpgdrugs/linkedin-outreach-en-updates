@@ -1,7 +1,7 @@
 {
-    "version": "1.0.4",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.4/LinkedInOutreachSetup-1.0.4.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.4/LinkedInOutreach-1.0.4-mac-update.zip",
-    "notes": "Fixes contact scanning on LinkedIn's updated connections page, so new contacts are found again and scanning is no longer slow or stuck.",
+    "version": "1.0.5",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.5/LinkedInOutreachSetup-1.0.5.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.5/LinkedInOutreach-1.0.5-mac-update.zip",
+    "notes": "Your settings now survive app updates, and contact scanning works again on LinkedIn's updated connections page. After this update you may need to sign in and enter your settings once more.",
     "required": false
 }
