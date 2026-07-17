@@ -1,7 +1,7 @@
 {
-    "version": "1.0.8",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.8/LinkedInOutreachSetup-1.0.8.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.8/LinkedInOutreach-1.0.8-mac-update.zip",
-    "notes": "Optional: auto-like the contact's last post, and let the app learn from your reply rates to improve new messages. New Support section in Settings to view and download logs.",
+    "version": "1.0.9",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.9/LinkedInOutreachSetup-1.0.9.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.9/LinkedInOutreach-1.0.9-mac-update.zip",
+    "notes": "Clearer Conversations sync: step 1 loads the overview and pictures, step 2 loads the full conversations. Also fixes a label on the dashboard and the message shown in the Mac update dialog.",
     "required": false
 }
