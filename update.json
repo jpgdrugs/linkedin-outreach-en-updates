@@ -1,7 +1,7 @@
 {
-    "version": "1.0.2",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.2/LinkedInOutreachSetup-1.0.2.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.2/LinkedInOutreach-1.0.2-mac-update.zip",
-    "notes": "More accurate messages (never references a post that does not exist), more reliable message button detection, and background logging for support.",
+    "version": "1.0.4",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.4/LinkedInOutreachSetup-1.0.4.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.4/LinkedInOutreach-1.0.4-mac-update.zip",
+    "notes": "Fixes contact scanning on LinkedIn's updated connections page, so new contacts are found again and scanning is no longer slow or stuck.",
     "required": false
 }
