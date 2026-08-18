@@ -2,6 +2,6 @@
     "version": "1.0.11",
     "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.11/LinkedInOutreachSetup-1.0.11.exe",
     "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.11/LinkedInOutreach-1.0.11-mac-update.zip",
-    "notes": "Re-added the 7-day free trial (no credit card required) to the checkout flow.",
+    "notes": "Various small fixes and improvements.",
     "required": false
 }
