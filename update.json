@@ -1,7 +1,7 @@
 {
-    "version": "1.0.11",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.11/LinkedInOutreachSetup-1.0.11.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v1.0.11/LinkedInOutreach-1.0.11-mac-update.zip",
-    "notes": "Various small fixes and improvements.",
+    "version": "3.0.0",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.0/LinkedInOutreachSetup-Windows-3.0.0.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.0/LinkedInOutreach-3.0.0-mac-update.zip",
+    "notes": "Big update: German/English language switch, unified codebase, several bugfixes (profile web research, message checker), and new safety warnings.",
     "required": false
 }
