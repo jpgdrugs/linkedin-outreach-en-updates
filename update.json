@@ -1,7 +1,7 @@
 {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.4/LinkedInOutreach-3.0.4-mac-update.zip",
-    "notes": "Kunden-CRM fuer Trial-Tracking ergaenzt (bisher nur Windows). Fix: falsch angezeigte Versionsnummer und daueraufpoppender Update-Hinweis behoben.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.5/LinkedInOutreach-3.0.5-mac-update.zip",
+    "notes": "Versionsnummer an Windows angeglichen.",
     "required": false
 }
