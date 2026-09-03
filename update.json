@@ -1,7 +1,7 @@
 {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.3/LinkedInOutreach-3.0.3-mac-update.zip",
-    "notes": "Firmengroessen-Filter und 'nur vom Tool vernetzte Kontakte'-Option im Vernetzen-Modus. Sicherheitsfix beim Nachrichtenversand. Verbesserte Faktenpruefung bei KI-Nachrichten. Automatischer Start bei Systemanmeldung (optional). Automatisierte Vernetzen-/Nachrichten-Laeufe nach Zeitplan (optional). Zielgruppen-Filterung kann komplett deaktiviert werden. Diverse kleinere Verbesserungen.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.4/LinkedInOutreach-3.0.4-mac-update.zip",
+    "notes": "Kunden-CRM fuer Trial-Tracking ergaenzt (bisher nur Windows). Fix: falsch angezeigte Versionsnummer und daueraufpoppender Update-Hinweis behoben.",
     "required": false
 }
