@@ -1,7 +1,7 @@
 {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.2/LinkedInOutreach-3.0.2-mac-update.zip",
-    "notes": "Hotfix: Schreibstil-Analyse (PDF/TXT/MD-Upload) schlug bei Standard-Installation fehl, da ins schreibgeschuetzte Programmverzeichnis statt in den Nutzerdaten-Ordner geschrieben wurde. Ausserdem: aktuelle Version wird jetzt unten in den Einstellungen angezeigt.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.3/LinkedInOutreach-3.0.3-mac-update.zip",
+    "notes": "Firmengroessen-Filter und 'nur vom Tool vernetzte Kontakte'-Option im Vernetzen-Modus. Sicherheitsfix beim Nachrichtenversand. Verbesserte Faktenpruefung bei KI-Nachrichten. Automatischer Start bei Systemanmeldung (optional). Automatisierte Vernetzen-/Nachrichten-Laeufe nach Zeitplan (optional). Zielgruppen-Filterung kann komplett deaktiviert werden. Diverse kleinere Verbesserungen.",
     "required": false
 }
