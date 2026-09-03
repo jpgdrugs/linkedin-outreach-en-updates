@@ -1,7 +1,7 @@
 {
-    "version": "3.0.5",
+    "version": "3.0.6",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.5/LinkedInOutreach-3.0.5-mac-update.zip",
-    "notes": "Versionsnummer an Windows angeglichen.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.6/LinkedInOutreach-3.0.6-mac-update.zip",
+    "notes": "Kritischer Fix: verhindert, dass mehrfaches Oeffnen der App zu wiederholten Abstuerzen ohne sichtbares Fenster fuehrt.",
     "required": false
 }
