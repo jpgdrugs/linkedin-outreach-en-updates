@@ -1,7 +1,7 @@
 {
-    "version": "3.0.6",
+    "version": "3.0.9",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.6/LinkedInOutreach-3.0.6-mac-update.zip",
-    "notes": "Kritischer Fix: verhindert, dass mehrfaches Oeffnen der App zu wiederholten Abstuerzen ohne sichtbares Fenster fuehrt.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.9/LinkedInOutreach-3.0.9-mac-update.zip",
+    "notes": "Withdraw old invitations (3+ weeks old, automatic), warns when LinkedIn is open in another browser, automation: checkboxes instead of a dropdown (combine as needed).",
     "required": false
 }
