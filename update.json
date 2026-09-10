@@ -1,7 +1,7 @@
 {
-    "version": "3.0.10",
+    "version": "3.0.11",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.10/LinkedInOutreach-3.0.10-mac-update.zip",
-    "notes": "Bug fixes: the automation weekday calendar now displays reliably, and downloading the log when none exists yet shows a small inline notice instead of an error page.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.11/LinkedInOutreach-3.0.11-mac-update.zip",
+    "notes": "Bug fixes: purchasing a subscription in the app now reliably returns and shows your license key. The connect feature now sends a notification when a campaign ends (list exhausted, daily limit, or LinkedIn's weekly limit).",
     "required": false
 }
