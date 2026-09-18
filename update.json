@@ -1,7 +1,7 @@
 {
-    "version": "3.0.11",
+    "version": "3.2.0",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.0.11/LinkedInOutreach-3.0.11-mac-update.zip",
-    "notes": "Bug fixes: purchasing a subscription in the app now reliably returns and shows your license key. The connect feature now sends a notification when a campaign ends (list exhausted, daily limit, or LinkedIn's weekly limit).",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.2.0/LinkedInOutreach-3.2.0-mac-update.zip",
+    "notes": "New: choose your LinkedIn version (Free, Premium, Sales Navigator) with fixed daily limits that protect your account, including a notice as soon as a limit is reached. Confirmation when a second task is started, login button in the settings for manual sign in, withdrawing old invitations now also in the Connect tab, browser window closes after 20 minutes idle, clearer mode descriptions and a save confirmation at the top right.",
     "required": false
 }
