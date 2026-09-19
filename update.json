@@ -1,7 +1,7 @@
 {
-    "version": "3.2.2",
+    "version": "3.2.3",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.2.2/LinkedInOutreach-3.2.2-mac-update.zip",
-    "notes": "Withdrawing old invitations is fixed. On some accounts the confirmation dialog\nopened but the confirm button inside it was never found, so nothing was ever\nwithdrawn. This mainly affected accounts that always have another LinkedIn\npanel open, for example the messaging overview.\n\nScanning the invitation list also stopped too early whenever LinkedIn stalled\nwhile loading more entries. Only the newest invitations were loaded then, and\nnone of them were old enough. It now keeps going until the daily quota is\ncovered or the list has really ended.\n\nIf the confirm button is ever missing again, the app now writes the details it\nneeds straight into the log so the case can be sorted out quickly.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.2.3/LinkedInOutreach-3.2.3-mac-update.zip",
+    "notes": "Withdrawing old invitations: the list is fully scanned again. On some accounts\nonly the first twenty or so entries were loaded, because the app did not find\nthe list correctly while the LinkedIn messaging panel was open at the same\ntime. Since the first entries are always the newest ones, none of them were old\nenough and nothing was withdrawn.\n\nA \"show more\" button in the invitation list is now detected and clicked as well.",
     "required": false
 }
