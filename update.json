@@ -1,7 +1,7 @@
 {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.2.1/LinkedInOutreach-3.2.1-mac-update.zip",
-    "notes": "InMails now have their own quota and no longer count against the daily limit for regular messages. Before this, the two took the limit away from each other.\n\nNew tile on the messages tab showing the InMail credits used today and the monthly total, visible with Sales Navigator.\n\nThe Sales Nav Filter and Sales Nav InMail modes only appear when Sales Navigator is selected in the settings.\n\nWithdrawing old invitations is much faster: the list is only scrolled until enough matching invitations are found, instead of going through all of it. With several hundred open invitations this saves minutes.\n\nNew tile on the connect tab showing how many invitations were withdrawn today.\n\nThe browser window starts minimized so the automation does not take over your screen. Can be turned off in the settings under Browser window. It always stays visible for a manual login.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.2.2/LinkedInOutreach-3.2.2-mac-update.zip",
+    "notes": "Withdrawing old invitations is fixed. On some accounts the confirmation dialog\nopened but the confirm button inside it was never found, so nothing was ever\nwithdrawn. This mainly affected accounts that always have another LinkedIn\npanel open, for example the messaging overview.\n\nScanning the invitation list also stopped too early whenever LinkedIn stalled\nwhile loading more entries. Only the newest invitations were loaded then, and\nnone of them were old enough. It now keeps going until the daily quota is\ncovered or the list has really ended.\n\nIf the confirm button is ever missing again, the app now writes the details it\nneeds straight into the log so the case can be sorted out quickly.",
     "required": false
 }
