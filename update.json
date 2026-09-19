@@ -1,7 +1,7 @@
 {
-    "version": "3.2.3",
+    "version": "3.2.4",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.2.3/LinkedInOutreach-3.2.3-mac-update.zip",
-    "notes": "Withdrawing old invitations: the list is fully scanned again. On some accounts\nonly the first twenty or so entries were loaded, because the app did not find\nthe list correctly while the LinkedIn messaging panel was open at the same\ntime. Since the first entries are always the newest ones, none of them were old\nenough and nothing was withdrawn.\n\nA \"show more\" button in the invitation list is now detected and clicked as well.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.2.4/LinkedInOutreach-3.2.4-mac-update.zip",
+    "notes": "Withdrawing old invitations: the invitation list is now scrolled properly. The\nprevious version moved the surrounding page area instead, so the list loaded\nvery slowly and often did not reach far enough back to find invitations that\nare three weeks old.\n\nThere is also no upper limit on how far it scrolls any more. It keeps looking\nuntil your daily withdrawal limit is covered or the list has ended. The stop\nbutton now also works while scrolling.",
     "required": false
 }
