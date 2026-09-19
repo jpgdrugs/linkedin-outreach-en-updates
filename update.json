@@ -1,7 +1,7 @@
 {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.2.0/LinkedInOutreach-3.2.0-mac-update.zip",
-    "notes": "New: choose your LinkedIn version (Free, Premium, Sales Navigator) with fixed daily limits that protect your account, including a notice as soon as a limit is reached. Confirmation when a second task is started, login button in the settings for manual sign in, withdrawing old invitations now also in the Connect tab, browser window closes after 20 minutes idle, clearer mode descriptions and a save confirmation at the top right.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.2.1/LinkedInOutreach-3.2.1-mac-update.zip",
+    "notes": "InMails now have their own quota and no longer count against the daily limit for regular messages. Before this, the two took the limit away from each other.\n\nNew tile on the messages tab showing the InMail credits used today and the monthly total, visible with Sales Navigator.\n\nThe Sales Nav Filter and Sales Nav InMail modes only appear when Sales Navigator is selected in the settings.\n\nWithdrawing old invitations is much faster: the list is only scrolled until enough matching invitations are found, instead of going through all of it. With several hundred open invitations this saves minutes.\n\nNew tile on the connect tab showing how many invitations were withdrawn today.\n\nThe browser window starts minimized so the automation does not take over your screen. Can be turned off in the settings under Browser window. It always stays visible for a manual login.",
     "required": false
 }
