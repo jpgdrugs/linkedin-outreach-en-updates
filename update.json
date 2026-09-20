@@ -1,7 +1,7 @@
 {
-    "version": "3.2.4",
+    "version": "3.3.0",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.2.4/LinkedInOutreach-3.2.4-mac-update.zip",
-    "notes": "Withdrawing old invitations: the invitation list is now scrolled properly. The\nprevious version moved the surrounding page area instead, so the list loaded\nvery slowly and often did not reach far enough back to find invitations that\nare three weeks old.\n\nThere is also no upper limit on how far it scrolls any more. It keeps looking\nuntil your daily withdrawal limit is covered or the list has ended. The stop\nbutton now also works while scrolling.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.0/LinkedInOutreach-3.3.0-mac-update.zip",
+    "notes": "Senden repariert, Automatik-Zeitplan, Desktop-Benachrichtigungen\n\n- Nachrichtenversand: LinkedIn hat das Nachrichtenfenster umgebaut. Die App\n  findet das Eingabefeld jetzt zuverlaessig, prueft vor dem Senden den Namen\n  im Chatfenster und schliesst danach genau dieses eine Fenster.\n- Zeitplan/Automatik: die Nachrichten-Phase lief bisher gar nicht und hat den\n  ganzen Lauf alle 5 Minuten neu gestartet. Behoben.\n- Desktop-Benachrichtigungen funktionieren wieder (z.B. wenn ein Tageslimit\n  erreicht ist).\n- Nachrichtenlaenge wird jetzt exakt gezaehlt statt geschaetzt, dadurch werden\n  deutlich weniger Profile unnoetig uebersprungen.\n- Vernetzen: Leads, bei denen LinkedIn gar kein Vernetzen anbietet, gelten als\n  uebersprungen statt als Fehler. Hinweis zum noetigen Filter auf Kontakte\n  2. und 3. Grades ergaenzt.\n- Zurueckgezogene Einladungen erscheinen im Aktivitaetsprotokoll.\n- Eigene Anweisungen an die KI haben jetzt Vorrang vor den Standardregeln.\n- Kampagnenstart reagiert sofort statt nach mehreren Sekunden.\n- Profilansichten werden gespart: bestehende Chats werden erkannt, bevor ein\n  Profil geoeffnet wird.\n- Support-Log enthaelt jetzt Zeitstempel und die Version.",
     "required": false
 }
