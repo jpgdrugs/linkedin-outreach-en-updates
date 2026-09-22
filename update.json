@@ -1,7 +1,7 @@
 {
-    "version": "3.3.2",
+    "version": "3.3.4",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.2/LinkedInOutreach-3.3.2-mac-update.zip",
-    "notes": "Neue Kontakte werden wieder angeschrieben\n\n- Wichtigster Punkt: die Pruefung \"hat diese Person schon einen Chat\" hat sich\n  an der Posteingangsliste verschluckt und fast jeden neuen Kontakt als\n  \"schon angeschrieben\" eingestuft. Dadurch wurden neue Vernetzungen gar nicht\n  mehr angeschrieben. Das ist behoben.\n- Die App bleibt beim Pruefen jetzt auf dem Profil, statt auf die\n  Nachrichtenseite zu wechseln.\n- Hoefliche Vernetzungsfloskeln (\"danke fuer die Annahme meiner Anfrage\")\n  gelten nicht mehr als gefuehrte Unterhaltung.\n- Zurueckgezogene Einladungen erscheinen jetzt im Aktivitaetsprotokoll des\n  Vernetzen-Tabs.\n- Das Support-Log schreibt bei Chat-Pruefungen mit, welche Person geprueft\n  wurde.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.4/LinkedInOutreach-3.3.4-mac-update.zip",
+    "notes": "Messages are created more reliably: the automatic check sometimes contradicted\nitself, wrote new mistakes into its own corrections and in the end produced no\nmessage at all. Now an objection only counts if it quotes a concrete passage of\nthe message. If an objection remains, the message is still created and flagged\nin the review so you can decide. Dashes are removed automatically.\n\nPosts are only used if they are at most 6 months old. If a post is older or its\nage cannot be read, the message relies on the profile and experience instead of\noutdated content.",
     "required": false
 }
