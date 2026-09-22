@@ -1,7 +1,7 @@
 {
-    "version": "3.3.4",
+    "version": "3.3.5",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.4/LinkedInOutreach-3.3.4-mac-update.zip",
-    "notes": "Messages are created more reliably: the automatic check sometimes contradicted\nitself, wrote new mistakes into its own corrections and in the end produced no\nmessage at all. Now an objection only counts if it quotes a concrete passage of\nthe message. If an objection remains, the message is still created and flagged\nin the review so you can decide. Dashes are removed automatically.\n\nPosts are only used if they are at most 6 months old. If a post is older or its\nage cannot be read, the message relies on the profile and experience instead of\noutdated content.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.5/LinkedInOutreach-3.3.5-mac-update.zip",
+    "notes": "More reliable unlocking: when your trial was extended, the app sometimes only\nnoticed hours later or not at all if the license server was slow to respond.\nNow the app checks at startup, waits longer for the answer and retries every few\nminutes while the trial reads as expired. The lock screen unlocks by itself as\nsoon as the extension arrives and now also shows available updates.\n\nYour device is now recognised permanently, even when you switch between WiFi,\nLAN or VPN.",
     "required": false
 }
