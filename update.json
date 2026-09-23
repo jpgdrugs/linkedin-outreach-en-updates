@@ -1,7 +1,7 @@
 {
-    "version": "3.3.9",
+    "version": "3.3.10",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.9/LinkedInOutreach-3.3.9-mac-update.zip",
-    "notes": "New in Settings: the table with the limits of your LinkedIn version now has a\n\"Current\" column. It shows how many profile views, connection requests, direct\nmessages, withdrawn invitations and InMails you have already used today.\n\nFixed: if you stopped a connect campaign and started it again right away, two\ncampaigns briefly ran at the same time. The new one now waits until the old\none has finished.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.10/LinkedInOutreach-3.3.10-mac-update.zip",
+    "notes": "Better sending when a daily limit is reached: if a limit of your LinkedIn\nversion is reached (for example profile views), the app pauses sending. Waiting\nmessages are no longer marked as failed but stay approved. As soon as the limit\nresets, you can simply send them again. A notice tells you how many messages\nwere held back.",
     "required": false
 }
