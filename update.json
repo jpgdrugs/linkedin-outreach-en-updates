@@ -1,7 +1,7 @@
 {
-    "version": "3.3.5",
+    "version": "3.3.7",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.5/LinkedInOutreach-3.3.5-mac-update.zip",
-    "notes": "More reliable unlocking: when your trial was extended, the app sometimes only\nnoticed hours later or not at all if the license server was slow to respond.\nNow the app checks at startup, waits longer for the answer and retries every few\nminutes while the trial reads as expired. The lock screen unlocks by itself as\nsoon as the extension arrives and now also shows available updates.\n\nYour device is now recognised permanently, even when you switch between WiFi,\nLAN or VPN.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.7/LinkedInOutreach-3.3.7-mac-update.zip",
+    "notes": "Clearer status display: the top right now shows what the app is currently doing\non LinkedIn, for example \"Connecting\", \"Creating messages\" or \"Withdrawing\ninvitations\". When nothing is running, it stays empty. The old \"Scan paused\"\nlabel is gone.\n\nThe red warning not to use LinkedIn yourself now also appears while old\ninvitations are being withdrawn.",
     "required": false
 }
