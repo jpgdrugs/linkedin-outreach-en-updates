@@ -1,7 +1,7 @@
 {
-    "version": "3.3.7",
+    "version": "3.3.8",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.7/LinkedInOutreach-3.3.7-mac-update.zip",
-    "notes": "Clearer status display: the top right now shows what the app is currently doing\non LinkedIn, for example \"Connecting\", \"Creating messages\" or \"Withdrawing\ninvitations\". When nothing is running, it stays empty. The old \"Scan paused\"\nlabel is gone.\n\nThe red warning not to use LinkedIn yourself now also appears while old\ninvitations are being withdrawn.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.8/LinkedInOutreach-3.3.8-mac-update.zip",
+    "notes": "More flexible automation: if you change today's time to a later time after a\nrun, the automation runs again today at that time. Previously the day counted\nas done after the first run.\n\nNew in Settings under Automation: the \"Start automation now\" button. It\nimmediately runs the checked steps, regardless of the configured day or time.",
     "required": false
 }
