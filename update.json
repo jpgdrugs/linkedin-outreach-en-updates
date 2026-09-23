@@ -1,7 +1,7 @@
 {
-    "version": "3.3.8",
+    "version": "3.3.9",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.8/LinkedInOutreach-3.3.8-mac-update.zip",
-    "notes": "More flexible automation: if you change today's time to a later time after a\nrun, the automation runs again today at that time. Previously the day counted\nas done after the first run.\n\nNew in Settings under Automation: the \"Start automation now\" button. It\nimmediately runs the checked steps, regardless of the configured day or time.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.9/LinkedInOutreach-3.3.9-mac-update.zip",
+    "notes": "New in Settings: the table with the limits of your LinkedIn version now has a\n\"Current\" column. It shows how many profile views, connection requests, direct\nmessages, withdrawn invitations and InMails you have already used today.\n\nFixed: if you stopped a connect campaign and started it again right away, two\ncampaigns briefly ran at the same time. The new one now waits until the old\none has finished.",
     "required": false
 }
