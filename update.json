@@ -1,7 +1,7 @@
 {
-    "version": "3.3.10",
+    "version": "3.3.11",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.10/LinkedInOutreach-3.3.10-mac-update.zip",
-    "notes": "Better sending when a daily limit is reached: if a limit of your LinkedIn\nversion is reached (for example profile views), the app pauses sending. Waiting\nmessages are no longer marked as failed but stay approved. As soon as the limit\nresets, you can simply send them again. A notice tells you how many messages\nwere held back.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.11/LinkedInOutreach-3.3.11-mac-update.zip",
+    "notes": "Sending messages fixed for the new LinkedIn layout: LinkedIn is gradually\nrolling out a new message window. On some accounts the input field was no\nlonger found, so no message went out. The app now finds the field regardless\nof the layout, waits more patiently for the window to load, and still checks\nbefore every send that it is the right person's window.",
     "required": false
 }
