@@ -1,7 +1,7 @@
 {
-    "version": "3.3.13",
+    "version": "3.3.14",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.13/LinkedInOutreach-3.3.13-mac-update.zip",
-    "notes": "More reliable sending: the app now clicks the message button with the mouse, like\na person. Before, LinkedIn sometimes opened the full messaging page instead of the\nsmall chat window, where the input field could be covered and some contacts failed\nevery time. If the field is still covered, the app types into it directly without\nhaving to click it.\n\nAfter sending, the app checks that LinkedIn really sent the message. If the\nbrowser crashed in the meantime, it is restarted before sending.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.14/LinkedInOutreach-3.3.14-mac-update.zip",
+    "notes": "More accurate send detection: after sending, the app now waits a little longer for\nLinkedIn to process the message. Before, a message could be shown as failed even\nthough it had already been sent. If the app does not find the send button right\naway, it keeps looking for a few seconds and checks whether the message already\nwent out.\n\nImportant: if a message is shown as failed, please check the LinkedIn chat before\nsending it again, in case it did arrive.",
     "required": false
 }
