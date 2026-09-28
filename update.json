@@ -1,7 +1,7 @@
 {
-    "version": "3.3.12",
+    "version": "3.3.13",
     "windows_url": "",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.12/LinkedInOutreach-3.3.12-mac-update.zip",
-    "notes": "More reliable sending: on some accounts LinkedIn shows the message window inside\nan embedded area, where sending stopped as a safety measure. The app now types,\nchecks and sends directly in the right person's input field, regardless of the\nlayout, and confirms the text is there before sending. The chat window is also\nclosed more reliably afterwards, including names with titles.\n\nMore accurate targeting: messages are only created for contacts who could be a\ncustomer for your offer. Competitors and unrelated industries are filtered out.\nNew in settings: minimum AI confidence (default 70 %).\n\nFailed messages can now be copied with one click and sent manually.",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-en-updates/releases/download/v3.3.13/LinkedInOutreach-3.3.13-mac-update.zip",
+    "notes": "More reliable sending: the app now clicks the message button with the mouse, like\na person. Before, LinkedIn sometimes opened the full messaging page instead of the\nsmall chat window, where the input field could be covered and some contacts failed\nevery time. If the field is still covered, the app types into it directly without\nhaving to click it.\n\nAfter sending, the app checks that LinkedIn really sent the message. If the\nbrowser crashed in the meantime, it is restarted before sending.",
     "required": false
 }
